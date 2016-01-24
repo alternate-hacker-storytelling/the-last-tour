@@ -23,8 +23,8 @@ tags_path : /tags.html
 
 # Masthead title
 masthead_link: http://the-last-tour.alternate.hackerstorytelling.com
-masthead_font_size: 55
-masthead_title: '{"The Last Tour":"Hacker Storytelling"}'
+masthead_font_size: 65
+masthead_title: '{"The Last Tour":<br />"Hacker Storytelling"}'
 
 # Feature
 feature_title: API Design Providers Guide
