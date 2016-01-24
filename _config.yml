@@ -47,24 +47,6 @@ navigation:
     size2: 0
     padding: 0
     decorate: 0
-  - label1: Entries
-    link1: /entries/
-    size1: 80
-    extend: 1
-    label2: RSS
-    link2: /entries.xml
-    size2: 60
-    padding: 2
-    decorate: 0
-  - label1: About
-    link1: /about.html
-    size1: 80
-    extend: 0
-    label2:
-    link2:
-    size2: 60
-    padding: 0
-    decorate: 0
   - label1: Return to API Evangelist
     link1: http://apievangelist.com
     size1: 80
